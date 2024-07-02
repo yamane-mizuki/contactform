@@ -1,0 +1,52 @@
+body{
+  font-family:メイリオ;
+  padding-left:2em;
+
+}
+
+.box1{
+  width:30%;
+  height:400px;
+  background-color:whitesmoke;
+  border:2px solid lightgray;
+  padding-left:1em;
+  padding-top:0.5em;
+  padding-bottom:0.5em;
+  border-radius:10px;
+}
+
+h2{
+  background-color:whitesmoke;
+  margin-top:30px;
+  margin-bottom:20px;
+  width:30%;
+  padding-left:1em;
+  margin-bottom:2em;
+  border-left:4px solid red;
+}
+
+input{
+  margin-bottom:2em;
+  border:1px solid whitesmoke;
+  color:#999;
+}
+
+select{
+  margin-bottom:2em;
+  border:1px solid whitesmoke;
+  color:#999;
+}
+
+textarea{
+  margin-bottom:2em;
+  border:1px solid whitesmoke;
+  color:#999;
+}
+
+.sousin{
+  background-color:lightgray;
+  color:white;
+  border:lightgray;
+  border-bottom:2px solid gray;
+  border-radius:5px;
+}
